@@ -12,4 +12,4 @@ My expertise spans across various stacks, including both LAMP (Linux, Apache, My
 
 I thrive on challenges and constantly seek opportunities to learn and grow in the ever-evolving tech landscape. What sets me apart is my commitment to tailoring each project to meet the unique needs of my clients. I take pride in delivering high-quality solutions that not only meet but exceed expectations.
 
-Let's collaborate and bring your software projects to life! Whether it's a LAMP, MERN, or WordPress project, I'm ready to create something extraordinary with you. Contact me today.
+Let's collaborate and bring your software projects to life! Whether it's a LAMP, MERN, or WordPress project, I'm ready to create something extraordinary with you.
